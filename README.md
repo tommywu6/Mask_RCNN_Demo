@@ -4,8 +4,10 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
 
 
 
-![Figure_1](/Users/daydream/Mask_RCNN_Demo/Figure_1.png)
+lack of coco and coco api, and mask_rcnn_coco.h5 file
 
-![Figure_12](/Users/daydream/Mask_RCNN_Demo/Figure_12.png)
 
-![hjhhhhh](/Users/daydream/Mask_RCNN_Demo/hjhhhhh.png)
+
+![136703388_410999500146258_3844922551474971065_n](images/tmp/136703388_410999500146258_3844922551474971065_n.jpg)
+
+
