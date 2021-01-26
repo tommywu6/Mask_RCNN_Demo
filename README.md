@@ -11,3 +11,32 @@ lack of coco and coco api, and mask_rcnn_coco.h5 file
 ![136703388_410999500146258_3844922551474971065_n](images/tmp/136703388_410999500146258_3844922551474971065_n.jpg)
 
 
+
+### Installation
+
+```
+pip3 install -r requirements.txt
+python3 setup.py install
+
+```
+
+
+
+### COCO api install
+
+```
+git clone https://github.com/cocodataset/cocoapi
+cd coco/PythonAPI
+# 要用python or python3 當作指令，請依照自己的環境喔。
+python setup.py build_ext --inplace
+python setup.py build_ext install
+
+
+
+https://blog.csdn.net/mdjxy63/article/details/81146964
+```
+
+
+
+
+
